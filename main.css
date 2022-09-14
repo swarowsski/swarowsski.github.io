@@ -4,11 +4,16 @@ h1{
 }
 .capybara-img{
   position: relative;
-  height: 300px;
-  align-items: center;
+  height: 500px;
+  ;
 
 }
 h2{
   font-weight: bold;
-  text-align: center;
+  align: center;
+  color: yellow;
+  
+}
+a{
+  align:center;
 }
