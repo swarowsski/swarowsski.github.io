@@ -1,8 +1,12 @@
-h1{
+body{
+  background-color: cyan;
+}
+h1 , p{
+  text-align: center;
   color: purple;
 
 }
-.capybara-img{
+img{
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -17,7 +21,4 @@ h2{
   border: 3px solid black;
   border-radius: 3px;
 
-}
-a{
-  align:center;
 }
