@@ -3,6 +3,12 @@ h1{
 
 }
 .capybara-img{
-  height: 200px;
-  
+  position: relative;
+  height: 300px;
+  align-items: center;
+
+}
+h2{
+  font-weight: bold;
+  text-align: center;
 }
